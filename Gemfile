@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'haml'
+gem 'haml-rails'
 gem 'jquery-rails'
 
 group :development, :test do
